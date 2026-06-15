@@ -69,3 +69,6 @@ A simple RESTful API built with Node.js, Express, and MySQL for managing users.
 ### 5. Delete a User
 - **Method:** `DELETE`
 - **URL:** `/users/:id`
+
+
+**POSTMEN check** `https://nadullaknidu7-4880383.postman.co/workspace/postmen-acadamy~a7e61346-0351-4556-bab2-ca045a1f4f85/collection/50951538-495bd039-194e-425c-be38-85962f80aefd?action=share&creator=50951538`
